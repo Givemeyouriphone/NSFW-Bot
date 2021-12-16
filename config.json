@@ -1,11 +1,11 @@
 {
-  "prefix": "your prefix",
-  "token": "your token",
-  "owners": ["OWNER ID"],
+  "prefix": "#",
+  "token": "OTIwOTUxMzc0NDEyMzk4NjEz.Ybr0zg.zJywuQ2ynATG1Dg4cWxyal22PcQ",
+  "owners": ["Hacker Cacnio#3284"],
   "footer": "NSFW Bot • is.gd/nsfwbot",
 
   "msg": {
-    "nsfwWarn": "You must use this command in an nsfw channel!",
+    "nsfwWarn": "Whoops! looks like this is the wrong location! you needed to make it an nsfw channel!",
     "loading": "Please wait...",
     "imageNotLoading": "Image not loading ? Click Here"
   }
